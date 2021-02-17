@@ -6,7 +6,7 @@ A command-line application that takes in information about employees on a softwa
 The application uses the inquirer package, and will be invoked by using the following command:
 node index.js
 
-Repository URL: https://github.com/FionVVen/Professional-README-Generator/
+Repository URL: https://github.com/FionVVen/Team-Profile-Generator
 
 
 ## Walkthrough Video
