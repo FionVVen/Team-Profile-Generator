@@ -1,29 +1,27 @@
 {
-  "name": "unit10hw",
+  "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "OOP and testing for week 10 homework",
+  "description": "Unit 10 homework",
   "main": "app.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
   "scripts": {
-    "test": "jest --verbose test/*"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevetrilogy/unit10hw.git"
+    "url": "git+https://github.com/RyanEllingson/Team-Profile-Generator.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stevetrilogy/unit10hw/issues"
+    "url": "https://github.com/RyanEllingson/Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "homepage": "https://github.com/RyanEllingson/Team-Profile-Generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  },
-  "devDependencies": {
-    "jest": "^24.8.0"
+    "inquirer": "^7.0.0",
+    "jest": "^24.9.0"
   }
 }
