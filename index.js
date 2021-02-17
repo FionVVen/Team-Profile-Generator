@@ -5,7 +5,7 @@ const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 
 
-const eteam = [];
+const employees = [];
 
 function initApp() {
     startHtml();
